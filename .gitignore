@@ -1,0 +1,15 @@
+# Archivos de log
+*.log
+
+# Archivos temporales de AutoHotkey
+*.tmp
+*.bak
+
+# Archivos de Windows
+Thumbs.db
+Desktop.ini
+.exe
+
+# Archivos de desarrollo
+.vscode/
+.idea/
