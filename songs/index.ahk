@@ -4,7 +4,9 @@
 #Include "Keyboardist\ariaMath.ahk"
 #Include "Keyboardist\farawayPromise.ahk"
 #Include "Keyboardist\paraElisa.ahk"
+#Include "Keyboardist\gomenAmanai.ahk"
 
 RegisterSong("4", "1", Song_ParaElisa())
 RegisterSong("4", "2", Song_AriaMath())
 RegisterSong("4", "3", Song_FarawayPromise())
+RegisterSong("4", "4", Song_GomenAmanai())
